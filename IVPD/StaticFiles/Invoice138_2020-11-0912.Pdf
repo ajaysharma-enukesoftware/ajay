@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+            <!-- Bootstrap -->
+            <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900" rel="stylesheet">
+        
+            <style>
+            body{font-family: 'Roboto', sans-serif;}
+            
+            </style>
+        </head>
+            <body>
+
+                <table style="width:850px;margin:10px auto 20px;border:1px solid #f8f8f8;border-collapse: collapse;">
+                    
+                    <tr>
+                        <td colspan="2" style="background: #fff;border-bottom:1px solid #fff">
+                            <img style="width:350px;" src="img/IVDP-logo.jpg" alt="">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="height: 20px;"></td>
+                    </tr> 
+
+                    <tr>
+                        <td style="padding: 10px;">
+                            <table style="width:50%;color: #000;border-collapse: collapse;">
+                                <tbody>
+                                    <tr>
+                                        <td style="padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">IVDP, IP - Instituto dos Vinhos</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">RUA DA BELA VISTA, 32</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">4050-253 Porto</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">Nº Contribuinte: 501176080</h3></td>
+                                    </tr>
+                                </tbody>
+                                
+                            </table>
+                        </td>
+                        <td style="padding: 10px;">
+                            <table style="width:100%;border:1px solid #e3e3e3;color: #000;background-color:#e3e3e3;border-collapse: collapse;">
+                                <tbody>
+                                    <tr>
+                                        <td style="padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">LÁZARO ALFREDO ALVES</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">Lugar das cabanas Braga</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">4701-967 BRAGA</h3></td>
+                                    </tr>
+                                </tbody>
+                                
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td style="padding: 10px;">
+                            <table style="width:100%;color: #000;border:1px solid #e3e3e3;border-collapse: collapse; margin-bottom: 15px;">
+                                <tbody>
+                                    <tr>
+                                        <td colspan="2" style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Tipo de Documento</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Credit</h3></td>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Original</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Número:2020-11-0912</h3></td>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Data: 16-09-2020 00:00:00</h3></td>
+                                    </tr>
+                                </tbody>
+                                
+                            </table>
+
+                            <table style="width:100%;color: #000;border:1px solid #e3e3e3;border-collapse: collapse; margin-bottom: 15px;">
+                                <tbody>
+                                    <tr>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Data de Vencimento</h3></td>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Referência N.º</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;"></h3></td>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">A1</h3></td>
+                                    </tr>
+                                </tbody>
+                                
+                            </table>
+                        </td>
+                        <td style="padding: 10px;">
+                            <table style="width:100%;color: #000;border:1px solid #e3e3e3;border-collapse: collapse; margin-bottom: 15px;">
+                                <tbody>
+                                    <tr>
+                                        <td colspan="2" style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Dt.disponibilização bens/realização serviços: 23.09.2020</h3></td>
+                                    </tr>
+                                </tbody>
+                                
+                            </table>
+
+                            <table style="width:100%;color: #000;border:1px solid #e3e3e3;border-collapse: collapse; margin-bottom: 15px;">
+                                <tbody>
+                                    <tr>
+                                        <td colspan="2" style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Cliente</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Número: 2020-11-0912</h3></td>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Contribuinte: PT500891362</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2" style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">LÁZARO ALFREDO ALVES</h3></td>
+                                    </tr>
+                                </tbody>
+                                
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" style="padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">Texto de cabeçalho que pode enquadrar a fatura</h3></td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">Moeda Euro</h3></td>
+                    </tr>
+
+                    <tr>
+                        <td style="padding:10px;" colspan="2">
+                            <table style="width:100%;color: #000;border:1px solid #e3e3e3;border-collapse: collapse; margin-bottom: 15px;">
+                                <tbody>
+                                    <thead>
+                                        <tr>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Item</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Referência</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Qtd./Unid.</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">P./Unid. Desc.</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">% IVA</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Val. Liq.</h3></td>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+							<!--<div  class="sample1"  colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"></div>-->
+
+                                        <tr>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">1</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">2020-11-0912<br>FEE de Gestão - AQ VS <br>Texto complementar ao texto do material</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;"></h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">4200/UN/1,00</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;"></h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">4200</h3></td>
+                                        </tr>
+                                       <!-- <tr>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">2</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">1400005731 <br>FEE de Gestão - AQ VS <br>Texto complementar ao texto do material</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">1UN</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">20,00 /1UN/1,00</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">23</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">20,00</h3></td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">3</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">1400005731 <br>FEE de Gestão - AQ VS <br>Texto complementar ao texto do material</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">1UN</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">20,00 /1UN/1,00</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">23</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">20,00</h3></td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">4</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">1400005731 <br>FEE de Gestão - AQ VS <br>Texto complementar ao texto do material</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">1UN</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">20,00 /1UN/1,00</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">23</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">20,00</h3></td>
+                                        </tr>
+                                        <tr>
+										
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">5</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">1400005731 <br>FEE de Gestão - AQ VS <br>Texto complementar ao texto do material</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">1UN</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">20,00 /1UN/1,00</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">23</h3></td>
+                                            <td colspan="2" style="text-align:left;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">20,00</h3></td>
+                                        </tr>
+										-->
+                                    </tbody>
+                                    <tfoot>
+                                        <tr>
+                                            <td style="text-align:right;padding: 5px 10px;background:#e3e3e3;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;background:#e3e3e3;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;background:#e3e3e3;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;background:#e3e3e3;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;background:#e3e3e3;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;background:#e3e3e3;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;background:#e3e3e3;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;background:#e3e3e3;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;background:#e3e3e3;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;background:#e3e3e3;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">A transportar....</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;background:#e3e3e3;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">4200</h3></td>
+                                        </tr>
+                                    </tfoot>
+                                    
+                                </tbody>
+                                
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" style="text-align:left;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">pCry - Processado por programa certificado n.º XXXXXXXXXXXXXXXXXXXX.</h3></td>
+                    </tr>
+
+                    <div class="page-break-always" style="page-break-before: always;"></div>
+
+                    <tr>
+                        <td colspan="2" style="background: #fff;border-bottom:1px solid #fff">
+                            <img style="width:350px;" src="img/IVDP-logo.jpg" alt="">
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" style="height: 20px;"></td>
+                    </tr>
+
+                    <tr>
+                        <td style="padding: 10px;">
+                            <table style="width:50%;color: #000;border-collapse: collapse;">
+                                <tbody>
+                                    <tr>
+                                        <td style="padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">IVDP, IP - Instituto dos Vinhos</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">RUA DA BELA VISTA, 32</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">4050-253 Porto</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">Nº Contribuinte: 501176080</h3></td>
+                                    </tr>
+                                </tbody>
+                                
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td style="padding: 10px;">
+                            <table style="width:100%;color: #000;border:1px solid #e3e3e3;border-collapse: collapse; margin-bottom: 15px;">
+                                <tbody>
+                                    <tr>
+                                        <td colspan="2" style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Tipo de Documento</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Factura</h3></td>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Original</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Número: 1925000012</h3></td>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Data: 23.09.2020</h3></td>
+                                    </tr>
+                                </tbody>
+                                
+                            </table>
+
+                            <table style="width:100%;color: #000;border:1px solid #e3e3e3;border-collapse: collapse; margin-bottom: 15px;">
+                                <tbody>
+                                    <tr>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Data de Vencimento</h3></td>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Referência N.º</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">23.09.2020</h3></td>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">A1</h3></td>
+                                    </tr>
+                                </tbody>
+                                
+                            </table>
+                        </td>
+                        <td style="padding: 10px;">
+                            <table style="width:100%;color: #000;border:1px solid #e3e3e3;border-collapse: collapse; margin-bottom: 15px;">
+                                <tbody>
+                                    <tr>
+                                        <td colspan="2" style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Dt.disponibilização bens/realização serviços: 23.09.2020</h3></td>
+                                    </tr>
+                                </tbody>
+                                
+                            </table>
+
+                            <table style="width:100%;color: #000;border:1px solid #e3e3e3;border-collapse: collapse; margin-bottom: 15px;">
+                                <tbody>
+                                    <tr>
+                                        <td colspan="2" style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Cliente</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Número: 1200028180</h3></td>
+                                        <td style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Contribuinte: PT500891362</h3></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2" style="text-align:center;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">AUTO-SUECO - BRAGA</h3></td>
+                                    </tr>
+                                </tbody>
+                                
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">Transporte ... 250,00</h3></td>
+                    </tr>
+
+                    <tr>
+                        <td style="padding:10px;" colspan="2">
+                            <table style="width:100%;color: #000;border-collapse: collapse; margin-bottom: 15px;">
+                                <tbody>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Valor total líquido</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">250,00</h3></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">IVA 23 %</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">16,10</h3></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">&nbsp;</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">Total do documento</h3></td>
+                                            <td style="text-align:right;padding: 5px 10px;border:1px solid #dee2e6;"><h3 style="margin:0;font-size:12px;">266,10</h3></td>
+                                        </tr>
+                                    </tbody>
+                                    
+                                </tbody>
+                                
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" style="text-align:left;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">Extenso: DUZENTOS E SESSENTA E SEIS EUROS E DEZ CÊNTIMOS</h3></td>
+                    </tr>
+
+
+                    <tr>
+                        <td colspan="2" style="text-align:left;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">Dados para pagamento: <br> 100</h3></td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" style="text-align:left;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">IVA não sujeito ao abrigo art 2.º, n.º 2 do CIVA</h3></td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" style="text-align:left;padding: 5px 10px;"><h3 style="margin:0;font-size:12px;">IVA Liq.Isento-O.B.S. - art 9.º do CIVA - Cont.</h3></td>
+                    </tr>
+
+                    
+                </table>
+            </body>
+        </html>
